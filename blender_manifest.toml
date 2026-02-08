@@ -1,0 +1,16 @@
+schema_version = "1.0.0"
+
+id = "siemen_lens_blender_autotrack"
+version = "4.0.2"
+
+name = "AutoTrack"
+tagline = "Automatic 3D Tracking and Solving"
+maintainer = "Siemen Lens"
+type = "add-on"
+
+website = "https://github.com/SiemenLens/AutoTrack/issues"
+
+tags = ["Tracking", "Animation", "Compositing", "3D View"]
+
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
