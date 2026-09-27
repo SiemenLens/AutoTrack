@@ -1,7 +1,7 @@
 schema_version = "1.0.0"
 
 id = "siemen_lens_blender_autotrack"
-version = "4.0.2"
+version = "5.1.2"
 
 name = "AutoTrack"
 tagline = "Automatic 3D Tracking and Solving"
@@ -14,3 +14,4 @@ tags = ["Tracking", "Animation", "Compositing", "3D View"]
 
 blender_version_min = "4.2.0"
 license = ["SPDX:GPL-3.0-or-later"]
+
